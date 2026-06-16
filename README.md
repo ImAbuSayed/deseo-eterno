@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Deseo eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-eterno/) |
+| **Get License** | [Get License For Deseo eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vienes conmigo
+> Que la luna sabe bien todo lo que te pido
+> Tengo el coche afuera, baby, no hay más testigos
+> Your body is calling, y yo soy tu destino
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
