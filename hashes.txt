@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo eterno
+
+This log tracks the cryptographic history and versioning for the song **Deseo eterno** (deseo-eterno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:42:28.037653 | `v1` | `a4c79d53f1f1d3fd56d81d3b57c26a5bcb55dd0fe1baed7a1593fc50ea5d4a33` | `a09fb218268f269c7749866b1b4e5d1bc884a2395ea30fd53e6537e7e5afcc06` | `2026-06-16_deseo-eterno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
